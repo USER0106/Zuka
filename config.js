@@ -42,33 +42,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
+global.sig = 'https://instagram.com/AmirrWibuu_01'
+global.sgh = 'https://github.com/USER0106'
 global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
 global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.snh = 'wa.me/6282154156241'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
+global.pdana = '082154156241'
+global.povo = '082154156241'
+global.pgopay = '082154156241'
+global.ppulsa = '082154156241'
+global.ppulsa2 = '082154156241'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '6285849337475'
+global.nomorown = '6282154156241'
 global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nameown = 'AmirrⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6282154156241'],
+  ['6282154156241'],
+  ['6282154156241'],
+  ['6282154156241', 'BotzzMee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,7 +119,7 @@ global.wm3 = '☘︎ BotzzMee'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ZukaShikaⒸ︎' 
+global.author = 'AmirrⒸ︎' 
 
 
 /*============== LOGO ==============*/
